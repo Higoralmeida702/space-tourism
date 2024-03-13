@@ -1,9 +1,4 @@
-body {
-    background-image: url('../../../public/imagens/home/background-home-desktop.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #FFF;
-}
+
 
 .navegacao {
     display: flex;
